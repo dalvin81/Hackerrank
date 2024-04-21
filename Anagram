@@ -1,0 +1,19 @@
+def anagram(s):
+    if len(s) % 2 != 0:
+        return -1
+    mid = len(s)//2
+    first = s[:mid]
+    second = s[mid:]
+    
+    first_counter = {char: first.count(char) for char in first}
+    second_counter = {char: second.count(char) for char in second}
+    
+    changes = 0
+    
+    for char, count in first_counter.items():
+        if char not in second_counter:
+            changes += count
+        else:
+            changes += max(0, count-second_counter[char])
+            
+    return changes
