@@ -8,3 +8,4 @@ Python solutions for Hackerrank Problems
 ## Super Reduce String: https://www.hackerrank.com/challenges/reduced-string/problem
 ## Weighted Uniform Strings: https://www.hackerrank.com/challenges/weighted-uniform-string/problem
 ## Palindrome Index: https://www.hackerrank.com/challenges/palindrome-index/problem
+## Anagram: https://www.hackerrank.com/challenges/anagram/problem
