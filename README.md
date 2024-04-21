@@ -6,3 +6,4 @@ Python solutions for Hackerrank Problems
 ## Mars Exploration: https://www.hackerrank.com/challenges/mars-exploration/problem
 ## HackerRank In a String: https://www.hackerrank.com/challenges/hackerrank-in-a-string/problem
 ## Super Reduce String: https://www.hackerrank.com/challenges/reduced-string/problem
+## Weighted Uniform Strings: https://www.hackerrank.com/challenges/weighted-uniform-string/problem
